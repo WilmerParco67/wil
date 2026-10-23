@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" rx="20" fill="#D6E6FF"/>
+  <circle cx="60" cy="60" r="30" fill="#ffffff" opacity="0.8"/>
+  <circle cx="340" cy="90" r="22" fill="#ffffff" opacity="0.8"/>
+  <!-- escudo -->
+  <path d="M200 30 L290 58 L290 135 C290 188 250 218 200 240 C150 218 110 188 110 135 L110 58 Z" fill="#2563EB"/>
+  <path d="M200 48 L272 70 L272 133 C272 176 240 201 200 220 C160 201 128 176 128 133 L128 70 Z" fill="#60A5FA"/>
+  <path d="M165 135 L192 162 L240 105" fill="none" stroke="#ffffff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="0" y="262" width="400" height="38" fill="#A8C8FA"/>
+  <text x="200" y="285" font-family="Verdana, sans-serif" font-size="18" fill="#1E3A8A" text-anchor="middle" font-weight="bold">Mejor prevenir que lamentar</text>
+</svg>

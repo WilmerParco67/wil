@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="800" height="240">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF9F1C"/>
+      <stop offset="0.5" stop-color="#FF4D6D"/>
+      <stop offset="1" stop-color="#7B2CBF"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="240" rx="24" fill="url(#g)"/>
+  <circle cx="90" cy="190" r="70" fill="#ffffff" opacity="0.12"/>
+  <circle cx="720" cy="40" r="90" fill="#ffffff" opacity="0.12"/>
+  <circle cx="640" cy="200" r="40" fill="#FFD60A" opacity="0.5"/>
+  <!-- corazón -->
+  <path d="M130 150 C70 105 95 55 130 80 C165 55 190 105 130 150 Z" fill="#ffffff"/>
+  <!-- escudo -->
+  <path d="M400 40 L470 62 L470 120 C470 160 440 182 400 198 C360 182 330 160 330 120 L330 62 Z" fill="#ffffff" opacity="0.92"/>
+  <path d="M370 118 L392 140 L435 92" fill="none" stroke="#FF4D6D" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- estrella -->
+  <path d="M670 70 L683 105 L720 107 L691 130 L701 166 L670 146 L639 166 L649 130 L620 107 L657 105 Z" fill="#FFD60A"/>
+  <text x="400" y="228" font-family="Verdana, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold">Cuidarme · Prevenir · Conocer mis derechos</text>
+</svg>
